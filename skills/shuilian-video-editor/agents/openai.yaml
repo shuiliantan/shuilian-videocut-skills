@@ -1,0 +1,4 @@
+interface:
+  display_name: "水莲视频剪辑助手"
+  short_description: "按水莲风格剪口播、做动画、校字幕，先核对分镜再制作成片和封面"
+  default_prompt: "使用 $shuilian-video-editor 按水莲的明亮沉稳风格处理本次视频，保留真实素材，先核对字幕与分镜，再完成已授权制作。"
