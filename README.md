@@ -28,7 +28,7 @@ python3 skills/shuilian-video-editor/scripts/review_storyboard.py my-video.srt -
 
 以本地 Codex（CLI 或 IDE 扩展）为例，复制本仓库的 GitHub 地址，连同下面的提示词发给 Codex：
 
-> 请使用 $skill-installer，安装我提供的 GitHub 仓库中的水莲剪辑 Skill。Skill 目录为 skills/shuilian-video-editor。请安装完整目录，检查 SKILL.md、references 和 scripts 是否齐全，并确认能调用 shuilian-video-editor。
+> 请使用 $skill-installer，从 https://github.com/shuiliantan/shuilian-videocut-skills 安装水莲剪辑 Skill。Skill 目录为 skills/shuilian-video-editor。请安装完整目录，检查 SKILL.md、references 和 scripts 是否齐全，并确认能调用 shuilian-video-editor。
 
 安装后，在新对话中让 Codex 读取“水莲剪辑 Skill”，确认名称与流程。完整文件夹应包含 `SKILL.md`、`agents/`、`references/` 和 `scripts/`。
 
